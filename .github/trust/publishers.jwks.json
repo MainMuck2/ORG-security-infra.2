@@ -2,9 +2,9 @@
   "keys": [
     {
       "kty": "RSA",
-      "kid": "AWS:arn:aws:kms:eu-central-1:478860598286:key/d9f74f21-8921-429f-ba29-261f451136b61",
+      "kid": "AWS:arn:aws:kms:eu-central-1:478860598286:key/d9f74f21-8921-429f-ba29-261f451136b6",
       "use": "sig",
-      "alg": "PS2561",
+      "alg": "PS256",
       "n": "…",
       "e": "AQAB"
     }
